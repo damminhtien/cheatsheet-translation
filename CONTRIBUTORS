@@ -6,17 +6,17 @@
   Amjad Khatabi (review of linear algebra)
   Mazen Melibari (review of linear algebra)
 
-  Fares Al-Quaneier (translation of machine learning tips and tricks)
+  Fares Al-Qunaieer (translation of machine learning tips and tricks)
   Zaid Alyafeai (review of machine learning tips and tricks)
   
   Mahmoud Aslan (translation of probabilities and statistics)
-  Fares Al-Quaneier (review of probabilities and statistics)
+  Fares Al-Qunaieer (review of probabilities and statistics)
 
-  Fares Al-Quaneier (translation of supervised learning)
+  Fares Al-Qunaieer (translation of supervised learning)
   Zaid Alyafeai (review of supervised learning)
 
   Redouane Lguensat (translation of unsupervised learning)
-  Fares Al-Quaneier (review of unsupervised learning)
+  Fares Al-Qunaieer (review of unsupervised learning)
 
 --de
 
@@ -97,6 +97,13 @@
   Prasetia Utama Putra (translation of convolutional neural networks)
   Gunawan Tri (review of convolutional neural networks)
 
+--it
+  Alessandro Piotti (translation of linear algebra)
+  Nicola Dall'Asen (review of linear algebra)
+  
+  Nicola Dall'Asen (translation of probabilities and statistics)
+  Alessandro Piotti (review of probabilities and statistics)
+
 --ko
   Wooil Jeong (translation of machine learning tips and tricks)
   
@@ -108,6 +115,11 @@
   Tran Tuan Anh (translation of convolutional neural networks)
   Yoshiyuki Nakai (review of convolutional neural networks)
   Linh Dang (review of convolutional neural networks)
+  
+  Taichi Kato (translation of deep learning)
+  Dan Lillrank (review of deep learning)
+  Yoshiyuki Nakai (review of deep learning)
+  Yuki Tokyo (review of deep learning)
   
   Kamuela Lau (translation of deep learning tips and tricks)
   Yoshiyuki Nakai (review of deep learning tips and tricks)
@@ -136,6 +148,7 @@
 
   Gabriel Fonseca (translation of deep learning)
   Leticia Portella (review of deep learning)
+  Renato Kano (review of deep learning)
 
   Gabriel Fonseca (translation of linear algebra)
   Leticia Portella (review of linear algebra)
@@ -200,8 +213,28 @@
   Denys (review of probabilities and statistics)
   
 --vi
-  Tran Tuan Anh (translation of supervised learning)
-  Dam Minh Tien (review of supervised learning)
+  Phạm Hồng Vinh (translation of convolutional neural networks)
+  Đàm Minh Tiến (review of convolutional neural networks)
+  
+  Trần Tuấn Anh (translation of deep learning)
+  Phạm Hồng Vinh (review of deep learning)
+  Đàm Minh Tiến (review of deep learning)
+  Nguyễn Khánh Hưng (review of deep learning)
+  Hoàng Vũ Đạt (review of deep learning)
+  Nguyễn Trí Minh (review of deep learning)
+
+  Trần Tuấn Anh (translation of machine learning tips and tricks)
+  Nguyễn Trí Minh (review of machine learning tips and tricks)
+  Vinh Pham (review of machine learning tips and tricks)
+  Đàm Minh Tiến (review of machine learning tips and tricks)
+
+  Trần Tuấn Anh (translation of recurrent neural networks)
+  Đàm Minh Tiến (review of recurrent neural networks)
+  Hung Nguyễn (review of recurrent neural networks)
+  Nguyễn Trí Minh (review of recurrent neural networks)
+
+  Trần Tuấn Anh (translation of supervised learning)
+  Đàm Minh Tiến (review of supervised learning)
   Hung Nguyễn (review of supervised learning)
   Nguyễn Trí Minh (review of supervised learning)
   
@@ -211,6 +244,9 @@
   Chaoying Xue (review of supervised learning)
 
 --zh-tw
+  kentropy (translation of convolutional neural networks)
+  kevingo (review of convolutional neural networks)
+
   kevingo (translation of deep learning)
   TobyOoO (review of deep learning)
 
